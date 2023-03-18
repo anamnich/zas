@@ -7,7 +7,7 @@ bash <(curl https://pterodactyl-installer.se)
 
 ## TOOLS INSTALL WINGS AUTO GREEN
 ```sh
-bash <(curl https://raw.githubusercontent.com/anamnch/zas/main/install-wings.sh)
+bash <(curl https://raw.githubusercontent.com/anamnich/zas/main/install-wings.sh)
 ```
 
 
